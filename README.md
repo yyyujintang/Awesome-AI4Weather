@@ -5,10 +5,6 @@ This repository compiles a list of papers on AI-based Weather Forecasting.
 
 Continual improvements are being made to this repository. If you come across any relevant papers that should be included, please don't hesitate to submit a pull request (PR) or open an issue.
 
-![](./pic/Overview.png)
-
-![](./pic/Computing_Resource.png)
-
 ## Global Weather and Medium-Range Weather Forecasting
 
 | Online_Date | Method        | Conference/Journal | Paper Title and Paper Link                                   | Code                                                       |
@@ -25,28 +21,6 @@ Continual improvements are being made to this repository. If you come across any
 | ----------- | ------ | ------------------ | ------------------------------------------------------------ | --------------------------------------------- |
 | 23-01-24    | ClimaX | ICML 2023          | [ClimaX: A foundation model for weather and climate](https://arxiv.org/abs/2301.10343) | [ClimaX](https://github.com/microsoft/ClimaX) |
 | 23-04-18    | W-MAE  | Arxiv 2023         | [W-MAE: Pre-trained weather model with masked autoencoder for multi-variable weather forecasting](https://arxiv.org/abs/2304.08754) | [W-MAE](https://github.com/gufrannn/w-mae)    |
-
-## Model Takeaways
-
-### FourCastNet
-
-![](./pic/FourCastNet.png)
-
-### Pangu-Weather
-
-![](./pic/Pangu.png)
-
-### GraphCast
-
-![](./pic/GraphCast.png)
-
-### ClimaX
-
-![](./pic/ClimaX.png)
-
-### FengWu
-
-![](./pic/FengWu.png)
 
 ## Acknowledgement
 
